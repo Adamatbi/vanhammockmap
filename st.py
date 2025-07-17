@@ -12,4 +12,5 @@ st.write("The map shows the locations of tree pairs suitable for hanging a hammo
 
 st.map(df,size=1)
 
+st.write("Was the map helpful? see a problem? send me a message [here](%s)" % "https://adamatbi.com/contact/")
 st.write("Data Source: https://opendata.vancouver.ca/explore/dataset/public-trees")
